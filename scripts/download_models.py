@@ -24,6 +24,7 @@ after cloning to populate the models/ directory.
 
 from __future__ import annotations
 
+import utils.session
 import os
 import shutil
 import sys
